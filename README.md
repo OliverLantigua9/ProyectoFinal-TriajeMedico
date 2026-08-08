@@ -36,8 +36,8 @@ ollama serve
 ```
 2. Clonar o Descargar el Repositorio
 ```bash
-git clone https://github.com/TU_USUARIO/TriajeMedicoOllama.git
-cd TriajeMedicoOllama
+[git clone https://github.com/TU_USUARIO/TriajeMedicoOllama.git
+cd TriajeMedicoOllama](https://github.com/OliverLantigua9/ProyectoFinal-TriajeMedico/edit/main/README.md)
 ```
 3. Compilar y Ejecutar la Aplicación C#
 Abre la terminal en la carpeta raíz del proyecto y ejecuta:
